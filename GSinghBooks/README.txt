@@ -15,3 +15,7 @@ then i added a customer folder in Area and select start and import file form the
 and paste it into customer view 
 then i run it into browser and it works very well
 as given in the instruction then i added admin area into area thenn i run into browser and it run good
+
+23 macrch 2022
+2:34 after completing my assignment 1 
+2:35 now i am starting my assignment 2
