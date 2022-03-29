@@ -19,3 +19,12 @@ as given in the instruction then i added admin area into area thenn i run into b
 23 macrch 2022
 2:34 after completing my assignment 1 
 2:35 now i am starting my assignment 2
+28 march 2022
+now i am working on my assignment 
+10:32
+i just added migration in dataAccess
+first it give error as give in notes bu t after its solution is also give 
+and it iserted properly
+10:35
+after that i updated my migration folder with  package manager console
+and now i review my table in SQL Server Object Explorer
