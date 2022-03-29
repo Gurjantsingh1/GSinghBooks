@@ -1,4 +1,5 @@
 
+using Gsingh.DataAccess.Repository;
 using GSinghBooks.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -35,6 +36,7 @@ namespace GSinghBooks
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, IUnitOfWork>();
             services.AddControllersWithViews();
         }
 
