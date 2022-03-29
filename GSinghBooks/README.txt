@@ -28,3 +28,4 @@ and it iserted properly
 10:35
 after that i updated my migration folder with  package manager console
 and now i review my table in SQL Server Object Explorer
+11:00 after creating the category.ca adding it to applicationDB context 
