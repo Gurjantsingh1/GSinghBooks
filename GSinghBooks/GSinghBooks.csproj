@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Admin\Controllers\CategoryController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.14" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.14" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.14" />
@@ -18,6 +22,14 @@
     <ProjectReference Include="..\Gsingh.DataAccess\Gsingh.DataAccess.csproj" />
     <ProjectReference Include="..\Gsingh.Models\Gsingh.Models.csproj" />
     <ProjectReference Include="..\Gsingh.Utility\Gsingh.Utility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Category\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Areas\Admin\Controllers\CategoryController.cs" />
   </ItemGroup>
 
 </Project>
