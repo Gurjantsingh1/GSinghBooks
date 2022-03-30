@@ -38,3 +38,14 @@ then add migration to category
 after that i updated all database
 and then i push to git hub to save my file
 12:00 then i created a new folder Repository
+and then created IRepository.cs
+and then inserted all data given in notes
+12:30
+after that i created categoryRepository and inserted all data
+and similar created ISP_CALL and SP_CALL
+and make changes in SP_CALL
+1:00 
+and then created unitofwork.cs
+after completing unitofwork make a link in startup.cs
+afterwards in Admin controller created Categorycontroller
+and then created category in Views and make Index.cshtml in it to give cs to category file.
