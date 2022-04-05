@@ -49,3 +49,7 @@ and then created unitofwork.cs
 after completing unitofwork make a link in startup.cs
 afterwards in Admin controller created Categorycontroller
 and then created category in Views and make Index.cshtml in it to give cs to category file.
+
+
+
+__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--__--
